@@ -96,3 +96,9 @@ Server: ALLOW
 - Maven for build automation
 
 
+## GitHub repo
+###what next?:
+- initiat pipeline using gitAction	
+- create an image on dockerHub	
+- follow this Repo:
+	-https://github.com/ibrahim-abouzaid/Raw-TCP-Rate-Limiter.git
