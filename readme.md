@@ -97,8 +97,8 @@ Server: ALLOW
 
 
 ## GitHub repo
-###what next?:
-- initiat pipeline using gitAction	
-- create an image on dockerHub	
-- follow this Repo:
+### what next?:
+- initiate pipeline using git Actions	
+- create an image on docker Hub	
+- follow this Repo:	
 	-https://github.com/ibrahim-abouzaid/Raw-TCP-Rate-Limiter.git
